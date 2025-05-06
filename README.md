@@ -5,9 +5,11 @@ This project was developed as part of the **Industrial Digitization** class and 
 ## 🧩 Overview
 
 The main goal of this project is to connect a local industrial setup to the **AWS IoT Core** cloud service, enabling the collection, visualization, and storage of environmental data such as **temperature** and **humidity**.
+
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,aws,raspberrypi,py"/>
 </p>
+
 ## 🔧 System Architecture
 
 - **STM32 Microcontroller**: Reads temperature and humidity data from Si7021 sensor.
