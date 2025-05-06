@@ -36,4 +36,4 @@ printf "\nRunning pub/sub sample application...\n"
 
 
 #SDK TEST
-python3 aws-iot-device-sdk-python-v2/samples/pubsub.py --endpoint a2u5eernta1kxi-ats.iot.eu-west-2.amazonaws.com --ca_file root-CA.crt --cert IoT_digitalizacao.cert.pem --key IoT_digitalizacao.private.key --client_id basicPubSub --topic sdk/test/python --count 0
+python3 aws-iot-device-sdk-python-v2/samples/pubsub.py --endpoint xxx-ats.iot.eu-west-2.amazonaws.com --ca_file root-CA.crt --cert IoT_digitalizacao.cert.pem --key IoT_digitalizacao.private.key --client_id basicPubSub --topic sdk/test/python --count 0
